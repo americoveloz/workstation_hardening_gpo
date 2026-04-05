@@ -1,3 +1,5 @@
+# Workstation Hardening using GPOs
+
 ### Introduction
 
 This project focuses on Workstation Hardening—the process of securing a computer system by reducing its surface of vulnerability. By using Microsoft Active Directory and Group Policy Objects (GPOs), I implemented a robust security framework based on the Principle of Least Privilege (PoLP) and Identity and Access Management (IAM) best practices.
