@@ -19,7 +19,9 @@ This project focuses on Workstation Hardening—the process of securing a comput
 
 ### Step-by-step Implementation
 
-### Key Notes for this lab
+[Step by step video](https://youtu.be/vy2mNrFJgv8)
+
+#### Key Notes for this lab
 - Best practice is to create a GPO for each configuration. This way, if it is necessary to disable just one configuration, it can be done easily by disabling the corresponding GPO.
 - In a production network, it is important to always test the GPOs with some users and computers before enabling them for the entire network.
 
