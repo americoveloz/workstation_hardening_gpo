@@ -125,6 +125,42 @@ Blocks "living-off-the-land" attacks by preventing standard users from executing
 
 <img width="1058" height="983" alt="image" src="https://github.com/user-attachments/assets/312e6299-a36a-4de6-9746-f7acccfe1992" />
 
+### Verification
+
+#### 1. Restrict Removable Storage Access (USB Block)
+<img width="541" height="244" alt="image" src="https://github.com/user-attachments/assets/1edef0c3-6555-4606-a236-14b05de34405" />
+
+
+#### 2. Prohibit Non-Administrative Software Installation
+<img width="572" height="241" alt="image" src="https://github.com/user-attachments/assets/75f5bb9f-0256-4753-bf0d-f726ba5eb080" />
+
+
+#### 3. Enforce Windows Defender Firewall
+<img width="1261" height="783" alt="image" src="https://github.com/user-attachments/assets/629f8c1a-0216-499e-9bd2-ed0394da4ab1" />
+
+
+#### 4. Enable Advanced Security Auditing
+<img width="814" height="518" alt="image" src="https://github.com/user-attachments/assets/5dae27ff-3e6e-47c7-954b-d28490ec83c9" /><br/>
+<i>Event ID 4740 shows locked account events</i><br/>
+
+#### 5. Disable the Built-in Guest Account
+<img width="264" height="259" alt="image" src="https://github.com/user-attachments/assets/facdf714-9b58-4cc6-b42f-054ab937fe64" />
+
+
+#### 6. Rename the Built-in Administrator Account
+<img width="259" height="214" alt="image" src="https://github.com/user-attachments/assets/8b46850a-f42e-450e-8f02-e43eb3dec2bf" />
+
+
+#### 8. Prevent Access to Registry Editing Tools (Regedit)
+<img width="588" height="202" alt="image" src="https://github.com/user-attachments/assets/471458a2-d8f9-4a44-a5fb-5d3fe3d228cb" />
+
+
+#### 9. Prohibit Access to Control Panel and PC Settings
+<img width="1134" height="420" alt="image" src="https://github.com/user-attachments/assets/07c45e39-8045-42a7-b7c6-c2cc660307c9" />
+
+
+#### 10. Restrict Command Prompt (CMD) and PowerShell Access
+<img width="786" height="286" alt="image" src="https://github.com/user-attachments/assets/d6349796-98d8-49d5-90fd-30ced541650a" />
 
 
 ### Lessons Learned
